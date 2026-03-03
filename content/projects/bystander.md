@@ -1,6 +1,6 @@
 +++
 date = '2026-01-21T15:40:22+05:30'
-draft = true
+draft = false
 title = 'Bystander'
 repo = "https://github.com/itsdivyanshjain/Bystander"
 description = "Passive Web Vulnerability Detection Tool"
