@@ -1,6 +1,10 @@
 name = "wisdom-around"
 compatibility_date = "2025-07-31"
 
+[[routes]]
+pattern = "wisdomaround.com"
+custom_domain = true
+
 [build]
 command = "chmod a+x build.sh && ./build.sh"
 
