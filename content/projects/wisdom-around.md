@@ -3,8 +3,8 @@ date = '2026-03-15T1:40:22+05:30'
 draft = false
 title = 'Wisdom Around'
 description = "Quest for simply being"
-selfWebsite = "tags/wisdom-around"
-selfWebsiteLabel = "Explore"
+#selfWebsite = "tags/wisdom-around"
+#selfWebsiteLabel = "Explore"
 featured = true
 +++
 
