@@ -42,6 +42,22 @@
               <i class="{{ $selfWebsiteIcon }} text-[0.75rem]"></i>
               <span>{{ $selfWebsiteLabel }}</span>
             </a>
+            <a href="{{$site.BaseURL}}{{ . }}/feed.xml" class="card-cta-btn">
+              <i class="fa-solid fa-user-plus text-[0.75rem]"></i>
+              <span>Subscribe to Feed</span>
+            </a>
+          {{ end }}
+
+          {{- $website := .Params.website -}}
+          {{- $websiteIcon := .Params.websiteIcon | default "fa-solid fa-globe" -}}
+          {{- $websiteLabel := .Params.websiteLabel | default "Website" -}}
+          {{ $site := .Site }}
+
+          {{ with $website}}
+            <a href="{{ . }}" class="card-cta-btn">
+              <i class="{{ $websiteIcon }} text-[0.75rem]"></i>
+              <span>{{ $websiteLabel }}</span>
+            </a>
           {{ end }}
           
         </header>

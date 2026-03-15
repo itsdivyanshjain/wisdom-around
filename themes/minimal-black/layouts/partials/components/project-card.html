@@ -81,17 +81,21 @@
         </a>
       {{ end }}
 
-      {{ with $website }}
-        <a href="{{ . }}" class="card-cta-btn" target="_blank" rel="noopener noreferrer">
-          <i class="{{ $websiteIcon }} text-[0.75rem]"></i>
-          <span>{{ $websiteLabel }}</span>
-        </a>
-      {{ end }}
-
       {{ with $selfWebsite}}
         <a href="{{$site.BaseURL}}{{ . }}" class="card-cta-btn">
           <i class="{{ $selfWebsiteIcon }} text-[0.75rem]"></i>
           <span>{{ $selfWebsiteLabel }}</span>
+        </a>
+        <a href="{{$site.BaseURL}}{{ . }}/feed.xml" class="card-cta-btn">
+          <i class="fa-solid fa-user-plus text-[0.75rem]"></i>
+          <span>Subscribe to Feed</span>
+        </a>
+      {{ end }}
+
+      {{ with $website }}
+        <a href="{{ . }}" class="card-cta-btn" target="_blank" rel="noopener noreferrer">
+          <i class="{{ $websiteIcon }} text-[0.75rem]"></i>
+          <span>{{ $websiteLabel }}</span>
         </a>
       {{ end }}
 

@@ -3,8 +3,11 @@ date = '2026-03-15T1:40:22+05:30'
 draft = false
 title = 'Wisdom Around'
 description = "Quest for simply being"
-#selfWebsite = "tags/wisdom-around"
-#selfWebsiteLabel = "Explore"
+website = "https://wisdomaround.substack.com/"
+websiteIcon = "fa-solid fa-user-plus"
+websiteLabel = "Subscribe on Substack"
+selfWebsite = "tags/wisdom-around"
+selfWebsiteLabel = "Explore"
 featured = true
 +++
 
@@ -20,7 +23,7 @@ Wisdom (def): _Ability to apply knowledge, and experience in your context_
 
 However, we often lack wisdom, so the better way is to learn from our environment and those who has gone through similar feelings, positions, and experiences.
 
-## But Why Learn From environment?
+## But Why Learn From Environment?
 
 Most of our problems and questions have already been explored, and somewhat better solved. This provides good head start instead looking to solve the problem from abyss.
 
