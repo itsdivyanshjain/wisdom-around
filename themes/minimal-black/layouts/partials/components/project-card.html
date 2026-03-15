@@ -16,6 +16,12 @@
 {{- $websiteIcon := $p.Params.websiteIcon | default "fa-solid fa-globe" -}}
 {{- $websiteLabel := $p.Params.websiteLabel | default "Website" -}}
 
+{{- $selfWebsite := $p.Params.selfWebsite -}}
+{{- $selfWebsiteIcon := $p.Params.selfWebsiteIcon | default "fa-solid fa-globe" -}}
+{{- $selfWebsiteLabel := $p.Params.selfWebsiteLabel | default "Website" -}}
+{{ $site := .Site }}
+
+
 <article class="card card-pad card-home card-home--project group">
   <!-- Entire main body is clickable -->
   <a href="{{ $p.RelPermalink }}" class="card-home-body">
@@ -48,13 +54,13 @@
       </p>
     {{ end }}
 
-    {{ with $p.Params.stack }}
+    <!-- {{ with $p.Params.stack }}
       <div class="mt-3 card-tag-row">
         {{ range . }}
           <span class="card-tag-pill">{{ . }}</span>
         {{ end }}
       </div>
-    {{ end }}
+    {{ end }} -->
   </a>
 
   <!-- Footer buttons: repo, demo, website -->
@@ -79,6 +85,13 @@
         <a href="{{ . }}" class="card-cta-btn" target="_blank" rel="noopener noreferrer">
           <i class="{{ $websiteIcon }} text-[0.75rem]"></i>
           <span>{{ $websiteLabel }}</span>
+        </a>
+      {{ end }}
+
+      {{ with $selfWebsite}}
+        <a href="{{$site.BaseURL}}{{ . }}" class="card-cta-btn">
+          <i class="{{ $selfWebsiteIcon }} text-[0.75rem]"></i>
+          <span>{{ $selfWebsiteLabel }}</span>
         </a>
       {{ end }}
 

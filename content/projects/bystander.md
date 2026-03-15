@@ -5,8 +5,6 @@ title = 'Bystander'
 repo = "https://github.com/itsdivyanshjain/Bystander"
 description = "Passive Web Vulnerability Detection Tool"
 github = "https://github.com/itsdivyanshjain/Bystander"
-tags = ["security-tools", "passive-scanning", "hacking", "open-source"]
-categories = ["web"]
 featured = true
 +++
 

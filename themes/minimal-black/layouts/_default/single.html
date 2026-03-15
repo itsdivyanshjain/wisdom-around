@@ -31,6 +31,18 @@
               <span>{{ $repoLabel }}</span>
             </a>
           {{ end }}
+
+          {{- $selfWebsite := .Params.selfWebsite -}}
+          {{- $selfWebsiteIcon := .Params.selfWebsiteIcon | default "fa-solid fa-globe" -}}
+          {{- $selfWebsiteLabel := .Params.selfWebsiteLabel | default "Website" -}}
+          {{ $site := .Site }}
+
+          {{ with $selfWebsite}}
+            <a href="{{$site.BaseURL}}{{ . }}" class="card-cta-btn">
+              <i class="{{ $selfWebsiteIcon }} text-[0.75rem]"></i>
+              <span>{{ $selfWebsiteLabel }}</span>
+            </a>
+          {{ end }}
           
         </header>
 

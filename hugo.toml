@@ -21,7 +21,7 @@ theme = "minimal-black"
 
   # Favicon - Place your favicon files in /static/ directory
   # Supported formats: .ico, .png, .svg
-  favicon = "icons/favicon.svg"
+  # favicon = "icons/favicon.svg"
   appleTouchIcon = "apple-touch-icon.png"
   customCSS = ["css/custom.css"]
 
@@ -244,10 +244,10 @@ theme = "minimal-black"
     useDevicon = true
 
   # Social Links
-  [[params.social]]
-    label = "Feed"
-    url = "/index.xml"
-    icon = "fa-solid fa-rss"
+  #[[params.social]]
+    #label = "Feed"
+    #url = "/index.xml"
+    #icon = "fa-solid fa-rss"
 
   [[params.social]]
     label = ""
