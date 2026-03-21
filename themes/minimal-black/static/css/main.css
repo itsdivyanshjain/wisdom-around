@@ -5268,6 +5268,7 @@ html[data-theme="light"] .mb-codeblock-content {
   .toc-wrapper {
     border-radius: 0.75rem;
     padding: 0.85rem;
+    display: none;
   }
 
   .toc-nav {
