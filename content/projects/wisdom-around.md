@@ -28,3 +28,8 @@ However, we often lack wisdom, so the better way is to learn from our environmen
 Most of our problems and questions have already been explored, and somewhat better solved. This provides good head start instead looking to solve the problem from abyss.
 
 Also, I've always admired the people who've expanded my thinking and helps me see the world through different lenses. Importantly, they've decided to share their insights with the public so that we can enjoy the fruits of their work.
+
+## Essays
+
+1. [Beyond The Choices](/blog/wisdom-around/beyond-the-choices/)
+2. [Beyond The Words](/blog/wisdom-around/beyond-the-words/)
