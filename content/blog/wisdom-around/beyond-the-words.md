@@ -13,11 +13,11 @@ Even children suffer from this problem. A student practitioner therapist once to
 
 ## Why it is necessary to express?
 
-Everything we do is an expression of ourselves. For example, when we're in the bad mood or stressed we'd noticed the decline in the quality of our work. While if we're happy, quality of work gets improved. Knowingly or unknowingly our emotions slip into every other activity. 
+Everything we do is an expression of ourselves. For example, when we're in the bad mood or stressed we'd noticed the decline in the quality of our work. While if we're happy, quality of our work gets improved. Knowingly or unknowingly our emotions slip into every other activity. 
 
 Somewhere in life, we learn that certain feelings aren't valid. But we all need to remember that we have a deep yearning to understand ourselves and be understood. We can't force others to understand us as we want them to, but when we understand ourselves better, we learn to be fine with being misunderstood. This allows us to feel psychologically safe and secure.
 
-## Where to go, if word fails us?
+## Where to go, if words fail us?
 
 Whenever I played sports, I felt happier/more content than watching them; the same goes for writing over reading, or performing improv over watching a stand-up act. Basically, this **process of creation in itself is beautiful**.
 
