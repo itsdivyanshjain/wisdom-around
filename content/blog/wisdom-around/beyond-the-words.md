@@ -3,6 +3,11 @@ date = '2026-07-30T17:25:22+05:30'
 draft = false
 title = 'Beyond The Words'
 #description = "Quest for simply being"
+website = "https://wisdomaround.substack.com/"
+websiteIcon = "fa-solid fa-user-plus"
+websiteLabel = "Subscribe on Substack"
+selfWebsite = "tags/wisdom-around"
+selfWebsiteLabel = "Explore"
 tags = ["wisdom-around","philosophy","wisdom"]
 categories = ["philosophy"]
 +++
