@@ -10,6 +10,7 @@ selfWebsite = "tags/wisdom-around"
 selfWebsiteLabel = "Explore"
 tags = ["wisdom-around","philosophy","wisdom"]
 categories = ["philosophy"]
+tldr = "You can have both opposites choices, but not at the same time and limitation of binary thinking"
 +++
 
 During my childhood, my elder sister used to ask me who I loved more -- her or my younger sister? I used to say “both.” Most probably, this answer came from the heart that I indeed love both of them or maybe it could be not wanting to hurt others. At that age, I don’t think I’ve developed cognitive abilities to reason.

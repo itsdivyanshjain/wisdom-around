@@ -10,6 +10,7 @@ selfWebsite = "tags/wisdom-around"
 selfWebsiteLabel = "Explore"
 tags = ["wisdom-around","philosophy","wisdom"]
 categories = ["philosophy"]
+tldr = "Some people express with words, but when words aren't enough to express the weight of feelings we use art, poems, exercise, work to make life more fulfilling"
 +++
 
 Oftentimes when we want to express our feelings with words, we notice a dissociation between our words and the actual feelings we want to convey. Yet, look at the great movies, songs, poems, and books through which we have connected to those characters, lyrics, or events that convey those feelings which makes this art so special to us. All these pieces articulate feelings far deeper than our own vocabulary allows us to grasp. The writers behind these scenes possess excellent skills for bridging words and emotions. Does this mean we lack communication skills? Perhaps, but it is often more complex than that. Many times, people are too dissociated and distanced from their feelings—they might not even be able to access them, let alone convey them.
