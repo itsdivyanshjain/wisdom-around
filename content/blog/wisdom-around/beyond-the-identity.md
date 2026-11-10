@@ -10,7 +10,7 @@ selfWebsite = "tags/wisdom-around"
 selfWebsiteLabel = "Explore"
 tags = ["wisdom-around","philosophy","wisdom"]
 categories = ["philosophy"]
-tldr = "The core idea of moving out is to try more things, gain clarity and be courageous and I’ve found something else which is my identity. Building the courage is still in process"
+tldr = "The core idea of moving out is to try more things, gain clarity and be courageous and I’ve found something else which is my identity. Building the courage is still in process."
 +++
 
 Two years ago, I found myself in the comfort of a remote job. However, I was in my early 20s, and even though **I knew what I wanted from life, I was not confident about whether that was truly what I wanted**. The only way I could think of to gain clarity was by gaining diverse experience, trying new things, and actively pushing myself out of the routine safety net of home and established privilege. That's when I decided to move out. I chose Bangalore because I was slightly familiar with the city due to a prior internship experience. I planned to find a new job and go for activities like security events, hacker & builder rooms, and explore hobbies like reading, sports, and improv.
