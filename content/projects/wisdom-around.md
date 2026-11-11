@@ -33,3 +33,5 @@ Also, I've always admired the people who've expanded my thinking and helps me se
 
 1. [Beyond The Choices](/blog/wisdom-around/beyond-the-choices/)
 2. [Beyond The Words](/blog/wisdom-around/beyond-the-words/)
+3. [Beyond The Identity](/blog/wisdom-around/beyond-the-identity/)
+4. [Beyond The Agency](/blog/wisdom-around/beyond-the-agency/)
